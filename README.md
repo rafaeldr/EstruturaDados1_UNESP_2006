@@ -10,10 +10,10 @@ Trabalhos de Estrutura de Dados 1
 >Campus de Rio Claro  
 >Bacharelado em Ciências da Computação (Integral)
 >
->{Nome: Rafael Delalibera Rodrigues}
->{Disciplina: Estrutura de Dados 1}
->{Professor: Carlos Fisher}
->{Compilador: Borland Turbo Pascal v7.0}
+>{Nome: Rafael Delalibera Rodrigues} <br>
+>{Disciplina: Estrutura de Dados 1} <br>
+>{Professor: Carlos Fisher} <br>
+>{Compilador: Borland Turbo Pascal v7.0} <br>
 >{Computador: AMD K6-II 550Mhz, 64 Mb RAM}
 >            
 >{Linguagem:  Pascal}
